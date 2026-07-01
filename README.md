@@ -76,6 +76,5 @@ Customer-Churn-Analysis/
 **Venkat Raghava C G**
 M.Sc. Data Science | Data Analyst Enthusiast
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-🔗 LinkedIn: https://www.linkedin.com/in/your-profile
-💻 GitHub: https://github.com/your-username
+📧 Email: [your-email@example.com](mailto:raghavavenkat49@gmail.com)
+
